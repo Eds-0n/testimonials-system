@@ -1,0 +1,17 @@
+Eu preciso de um formulario do tipo popup que abre quando um botao é clicado com os seguintes campos nome, empresa, email, mensagem e uma classificacao em estrelas, o formulario deve ser bonito e atraente e responsivo.
+
+Quando o usuario escrever um testemunho, o sistema deve filtrar palavras ofensivas existentea na mensagem do testemunho, desse modo descartando os testemunhos ofensivos e armazenando na base de dados os testemunhos que passarem na verificacao.
+
+O sistema deve ser um layout amigavel e responsivo com cores atraentes que chamam a atencao do cliente e o deixando a vontade no site, atendendo as necessidades do UI/UX design, se for possivel o armazenamento deve ser feito atraves do fetch api com o javascript.
+
+O sistema deve ser um banner principal onde deve ter um cabeçalho e uma descricao breve que convide o cliente a deixar um testemunho e o botao que que por sua vez vai abrir o popup, e o do lado direito do banner deve ter uma imagem que atrai o cliente a deixar um testemunho, o banner tambem deve ser responsivo.
+
+Traga me todo o projecto desde a estrutura de pastas ate a codigo, todo limpo.
+
+Logo apos o banner deve ter uma seccao onde serao exibidos dinamicamente todos os testemuhos desde o mais recente ao mais antigo, sendo que nessa mesma seccao deve ter alguns butoes que ilustram a paginacao, sendo que serao exibidos 10 testemunhos a cada pagina.
+
+No codigo da base de dados, traga ja 15 testemunhos diferentes ja inseridos com datas diferentes, para melhor compreensao da funcionalidade de exibicao do mais recente ao mais antigo.
+
+Este projecto sera executado localhmente num servidor embutido php, sendo que a base de dados é do xampp, o mysql nesse caso.
+
+Tudo nesse projecto deve ser dinamico.
